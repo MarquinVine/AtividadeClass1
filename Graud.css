@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+.Canais img{
+    margin: 60px;
+    width: 60px;
+    height: 60px;
+    border-radius: 150px;
+}
